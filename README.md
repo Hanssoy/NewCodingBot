@@ -1,5 +1,5 @@
 # Markdown Study
-* What is markdown?
+* What is markdown?  
   *마크다운의 장점  
 
 쉽다. 문법이 많지 않고 쉽다.
