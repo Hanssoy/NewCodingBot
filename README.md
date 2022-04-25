@@ -1,6 +1,6 @@
 # Markdown Study
 * What is markdown?  
-* 마크다운의 장점  
+    * 마크다운의 장점  
 * Item 1 
 * Item 2 
     * Item 2a 
