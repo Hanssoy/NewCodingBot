@@ -1,6 +1,10 @@
 # Markdown Study
 * What is markdown?  
 * 마크다운의 장점  
+* Item 1 
+* Item 2 
+    * Item 2a 
+    * Item 2b 
 
 쉽다. 문법이 많지 않고 쉽다.
 키보드 중심. 키보드로만 조작할 수 있어 쉽게 구조적인 글쓰기가 가능하다.
